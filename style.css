@@ -1,0 +1,26 @@
+.container{
+	/*top:0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	align-content: center;
+	align-items: center;*/
+	background-color: red;
+
+}
+
+.slider {
+	width: 100%;
+	height: auto;
+}
+
+.slick-prev:before, .slick-next:before{
+	color: black;
+}
+.imagem {
+	border: 2px solid lightgray;
+}
